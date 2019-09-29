@@ -6,7 +6,7 @@ where the people are coming from, and where the hole is they are leaving behind,
 
 ### Census Data
 
-(County to County Migration Flows)[https://www.census.gov/topics/population/migration/guidance/county-to-county-migration-flows.html]
+[County to County Migration Flows](https://www.census.gov/topics/population/migration/guidance/county-to-county-migration-flows.html)
 
 #### Data Headers for All Data.txt
 
@@ -34,10 +34,10 @@ AB - BA = -186
 
 ### Map Examples
 
- * https://flowsmapper.geo.census.gov/map.html#
- * https://mapchart.net/usa-counties.html
+ * [Census Flow Mapper](https://flowsmapper.geo.census.gov/map.html)
+ * [USA Counties](https://mapchart.net/usa-counties.html)
  
 #### Map Sources
 
- * https://commons.wikimedia.org/wiki/File:Usa_counties_large.svg
+ * [USA Country SVG](https://commons.wikimedia.org/wiki/File:Usa_counties_large.svg)
 
