@@ -4,6 +4,8 @@ I’ve noticed a lot of new home construction where I live. However the populati
 Also it is currently a sellers market, meaning there more buyers than sellers. I am wondering then how the area will sustain all this new construction, 
 where the people are coming from, and where the hole is they are leaving behind, and what might happen to that hole.
 
+One thought is the migration of people from living with their parents to buying a home and those living in shared family spaces.
+
 ### Census Data
 
 [County to County Migration Flows](https://www.census.gov/topics/population/migration/guidance/county-to-county-migration-flows.html)
